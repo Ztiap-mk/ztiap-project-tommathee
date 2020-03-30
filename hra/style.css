@@ -1,0 +1,9 @@
+body {
+    background: black;
+}
+
+canvas {
+    display: block;
+    background-image: url(background_game.jpg);
+    margin: auto;
+}
